@@ -1,0 +1,22 @@
+# Dependências
+/node_modules
+
+# Arquivos de log
+*.log
+
+# Diretórios de build
+/dist
+/build
+
+# Arquivos de ambiente
+.env
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Outros
+.DS_Store
+Thumbs.db
